@@ -57,4 +57,9 @@ public class HomeController {
 	public void getName() {
 		System.out.println("bhavani sankar reddy");
 	}
+	
+	public void wishtheMessag() {
+		System.out.println("HomeController.wish()----------hello how are you");
+	}
+
 }
