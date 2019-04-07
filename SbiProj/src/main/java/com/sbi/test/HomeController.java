@@ -48,4 +48,8 @@ public class HomeController {
 		
 		return "home";
 	}
+	
+	public void getName() {
+		System.out.println("bhavani sankar reddy");
+	}
 }
