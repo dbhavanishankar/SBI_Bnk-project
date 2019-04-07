@@ -48,4 +48,8 @@ public class HomeController {
 		
 		return "home";
 	}
+	public void wish() {
+		System.out.println("HomeController.wish()----------hello how are you");
+	}
 }
+
