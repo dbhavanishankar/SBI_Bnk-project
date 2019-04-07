@@ -61,5 +61,11 @@ public class HomeController {
 	public void wishtheMessag() {
 		System.out.println("HomeController.wish()----------hello how are you");
 	}
-
+	public void wish2() {
+		System.out.println("HomeController.wish()----------hello how are you");
+	}
+	public void wish3() {
+		System.out.println("HomeController.wish()----------hello how are you");
+	}
+	
 }
