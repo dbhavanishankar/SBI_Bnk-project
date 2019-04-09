@@ -49,23 +49,4 @@ public class HomeController {
 
 		return "home";
 	}
-
-	public void wish() {
-		System.out.println("HomeController.wish()----------hello how are you");
-	}
-
-	public void getName() {
-		System.out.println("bhavani sankar reddy");
-	}
-	
-	public void wishtheMessag() {
-		System.out.println("HomeController.wish()----------hello how are you");
-	}
-	public void wish2() {
-		System.out.println("HomeController.wish()----------hello how are you");
-	}
-	public void wish3() {
-		System.out.println("HomeController.wish()----------hello how are you");
-	}
-	
 }
